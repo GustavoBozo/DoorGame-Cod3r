@@ -15,3 +15,8 @@
     font-size: 3rem;
     
 }
+
+:root {
+    --area-porta-altura: 310px;
+    --area-porta-largura: 200px;
+}
